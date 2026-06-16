@@ -9,4 +9,5 @@ The dataset is directly downloaded from a GitHub open source platform and consis
 - **Financials:** Applicant income, Coapplicant income, Loan amount, Loan amount term
 - **Others:** Credit history, Property area
 - **Target Variable:** Loan_Status (Y=approved, N=not approved)
+
 The dataset includes many missing values in different columns.
